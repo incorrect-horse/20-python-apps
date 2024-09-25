@@ -1,4 +1,4 @@
-Learn Python in 60 Days by building 20 Apps (52 hrs)
+# Learn Python in 60 Days by building 20 Apps (52 hrs)
 
 1. To-do app (CLI, desktop GUI, and web app versions) covering all Python basics
 2. Project showcase website built in Python to publish Python projects
@@ -40,8 +40,8 @@ Learn Python in 60 Days by building 20 Apps (52 hrs)
   - building a gui version, gui styles
   - building a web app version
 
-App 2 - Project Profile Website
-  # Project showcase website built in Python to publish Python projects
+# App 2 - Project Profile Website
+## Project showcase website built in Python to publish Python projects
   - app design
   - project setup and git
   - app data source
@@ -50,27 +50,27 @@ App 2 - Project Profile Website
   - multipage web apps, webforms
   - send email, send email via webforms
 
-App 3 - Generate PDF Documents
-  # Task automation: Generating PDF receipts with Python
+# App 3 - Generate PDF Documents
+## Task automation: Generating PDF receipts with Python
   - multipage pdf, csv to pdf/pandas
   - add pages, add footer
 
-App 4 - Generate PDF Invoices from Excel Docs
-  # Extracting Excel data and creating reports
+# App 4 - Generate PDF Invoices from Excel Docs
+## Extracting Excel data and creating reports
   - load Excel data to python
   - create pdf for each excel doc
   - add date, table, table header, total price
   - multicell tables
 
-App 5 - Daily News Email Digest (API)
-  # Automated Daily News Digest Emails with Python
+# App 5 - Daily News Email Digest (API)
+## Automated Daily News Digest Emails with Python
   - url requests
   - getting data from an api
   - emailing api data
   - download files from web
 
-App 6 - Historical Weather Data (API)
-  # Build an API serving historical weather data
+# App 6 - Historical Weather Data (API)
+## Build an API serving historical weather data
   - basic html
   - build website with Flask
   - rest api
@@ -85,8 +85,8 @@ App 6 - Historical Weather Data (API)
   - manipulating url endpoints
   - wine tasting dataset analysis
 
-App 7 - Weather Forecast Dashboard (API)
-  # Weather forecast data dashboard
+# App 7 - Weather Forecast Dashboard (API)
+## Weather forecast data dashboard
   - streamlit
   - coding a user interface
   - plot data dynamically
@@ -96,8 +96,8 @@ App 7 - Weather Forecast Dashboard (API)
   - add sky conditions
   - fix weather forecast app
 
-App 8 - Natural Language Processor for eBooks
-  # Natural Language Processing of eBooks
+# App 8 - Natural Language Processor for eBooks
+## Natural Language Processing of eBooks
   - regex
   - nltk - natural language tool kit
   - get number of chapters
@@ -107,8 +107,8 @@ App 8 - Natural Language Processor for eBooks
   - identify positive/negative chapters
   - visualize mood across days
 
-App 9 - Webcam Monitoring Email Alert App
-  # Webcam monitoring email alert app
+# App 9 - Webcam Monitoring Email Alert App
+## Webcam monitoring email alert app
   - digital images
   - capture webcam video
   - detect motion
@@ -120,8 +120,8 @@ App 9 - Webcam Monitoring Email Alert App
   - threading
   - applications of image processing
 
-App 10 - Music Event Web Scraper
-  # Web scraping of websites
+# App 10 - Music Event Web Scraper
+## Web scraping of websites
   - scraping a webpage
   - extract data from scraped webpage
   - store extracted data in text file
@@ -132,8 +132,8 @@ App 10 - Music Event Web Scraper
   - select, add, delete sql data
   - store app data in sql database
 
-App 11 - Hotel Booking App
-  # Hotel booking app using Python Object-Oriented Programming (OOP)
+# App 11 - Hotel Booking App
+## Hotel booking app using Python Object-Oriented Programming (OOP)
   - intro to oop
   - classes, init, self
   - class vs instance
@@ -147,15 +147,15 @@ App 11 - Hotel Booking App
   - properties, static methods, magic methods
   - abstract classes and methods
 
-App 12 - Code Inspection with Mario Game App
+# App 12 - Code Inspection with Mario Game App
   # Understanding programs coded by others: Inspecting the Mario game codebase
   - github, fork, pull-request
   - setup project locally
   - inspecting overall structure
   - inspecting code
 
-App 13 - SQLite Student Management System with PyQt
-  # Student Management System Desktop GUI app with SQLite and PyQt
+# App 13 - SQLite Student Management System with PyQt
+## Student Management System Desktop GUI app with SQLite and PyQt
   - project requirements
   - sketch prototype
   - intro to pyqt6
@@ -169,22 +169,22 @@ App 13 - SQLite Student Management System with PyQt
   - create edit, delete, about dialog
   - refactoring
 
-App 14 - MySQL Student Management System with PyQt
-  # Student Management System Desktop GUI app with MySQL and PyQt
+# App 14 - MySQL Student Management System with PyQt
+## Student Management System Desktop GUI app with MySQL and PyQt
   - mysql vs sqlite
   - installing sqlite
   - mysql command line
   - implement mysql
 
-App 15 - Intelligent Chatbot with ChatGPT and PyQt
-  # Intelligent chatbot with ChatGPT and PyQt
+# App 15 - Intelligent Chatbot with ChatGPT and PyQt
+## Intelligent chatbot with ChatGPT and PyQt
   - chatbot vs chatgpt
   - create chatbot gui
   - create gpt Chatbot
   - connect chatbot to gui
 
-App 16 - Job Application Webapp with Flask
-  # Job application web app with Flask
+# App 16 - Job Application Webapp with Flask
+## Job application web app with Flask
   - create app structure
   - connecting python backend to html
   - building the form
@@ -195,8 +195,8 @@ App 16 - Job Application Webapp with Flask
   - display submission notification
   - send confirmation email
 
-App 17 - Job Application Webapp with Django
-  # Job application web app with Django
+# App 17 - Job Application Webapp with Django
+## Job application web app with Django
   - setting up django App
   - setup database model
   - create views and templates
@@ -208,8 +208,8 @@ App 17 - Job Application Webapp with Django
   - create base template
   - add navigation bar
 
-App 18 - Restaurant Kitchen Webapp with Django
-  # Restaurant kitchen web app
+# App 18 - Restaurant Kitchen Webapp with Django
+## Restaurant kitchen web app
   - generate app qr code
   - setup django project and app
   - create database model
@@ -220,8 +220,8 @@ App 18 - Restaurant Kitchen Webapp with Django
   - adding dynamic links
   - adding bootstrap
 
-App 19 - Movie Recommendation System
-  # Movie recommendation system
+# App 19 - Movie Recommendation System
+## Movie recommendation system
   - three types of recommendation systems
   - movies dataset
   - project setup on deepnote
@@ -233,8 +233,8 @@ App 19 - Movie Recommendation System
   - training the model
   - using model to predict
 
-App 20 - Build and Push a Python Package to PyPi
-  # Build and publish a third-party Python package
+# App 20 - Build and Push a Python Package to PyPi
+## Build and publish a third-party Python package
   - description of package
   - preparing package code
   - testing package
