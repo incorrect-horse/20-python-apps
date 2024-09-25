@@ -1,5 +1,26 @@
 Learn Python in 60 Days by building 20 Apps (52 hrs)
 
+1. To-do app (both as a desktop GUI and as a web app) covering all Python basics
+2. Project showcase website built in Python to publish Python projects
+3. Task automation: Generating PDF receipts with Python
+4. Extracting Excel data and creating reports
+5. Automated Daily News Digest Emails with Python
+6. Build an API serving historical weather data
+7. Weather forecast data dashboard
+8. Natural Language Processing of eBooks
+9. Webcam monitoring email alert app
+10. Web scraping of websites
+11. Hotel booking app using Python Object-Oriented Programming (OOP)
+12. Understanding programs coded by others: Inspecting the Mario game codebase
+13. Student Management System Desktop GUI app with SQLite and PyQt
+14. Student Management System Desktop GUI app with MySQL and PyQt
+15. Intelligent chatbot with ChatGPT and PyQt
+16. Job application web app with Flask
+17. Job application web app with Django
+18. Restaurant kitchen web app
+19. Movie recommendation system
+20. Build and publish a third-party Python package
+
 App 1 - To-Do List
   - variables, lists, print
   - methods, while loops
