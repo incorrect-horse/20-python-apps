@@ -43,6 +43,7 @@ https://github.com/incorrect-horse/20-python-apps/tree/main/01_todo
 
 # App 2 - Project Profile Website
 ## Project showcase website built in Python to publish Python projects
+https://github.com/incorrect-horse/20-python-apps/tree/main/02_portfolio
   - app design
   - project setup and git
   - app data source
@@ -53,11 +54,13 @@ https://github.com/incorrect-horse/20-python-apps/tree/main/01_todo
 
 # App 3 - Generate PDF Documents
 ## Task automation: Generating PDF receipts with Python
+https://github.com/incorrect-horse/20-python-apps/tree/main/03_pdf_template
   - multipage pdf, csv to pdf/pandas
   - add pages, add footer
 
 # App 4 - Generate PDF Invoices from Excel Docs
 ## Extracting Excel data and creating reports
+https://github.com/incorrect-horse/20-python-apps/tree/main/04_excel_to_pdf
   - load Excel data to python
   - create pdf for each excel doc
   - add date, table, table header, total price
@@ -65,6 +68,7 @@ https://github.com/incorrect-horse/20-python-apps/tree/main/01_todo
 
 # App 5 - Daily News Email Digest (API)
 ## Automated Daily News Digest Emails with Python
+https://github.com/incorrect-horse/20-python-apps/tree/main/05_news_api_email
   - url requests
   - getting data from an api
   - emailing api data
@@ -72,6 +76,7 @@ https://github.com/incorrect-horse/20-python-apps/tree/main/01_todo
 
 # App 6 - Historical Weather Data (API)
 ## Build an API serving historical weather data
+https://github.com/incorrect-horse/20-python-apps/tree/main/06_weather_api
   - basic html
   - build website with Flask
   - rest api
@@ -88,6 +93,7 @@ https://github.com/incorrect-horse/20-python-apps/tree/main/01_todo
 
 # App 7 - Weather Forecast Dashboard (API)
 ## Weather forecast data dashboard
+https://github.com/incorrect-horse/20-python-apps/tree/main/07_wx_forecast_app
   - streamlit
   - coding a user interface
   - plot data dynamically
@@ -99,6 +105,7 @@ https://github.com/incorrect-horse/20-python-apps/tree/main/01_todo
 
 # App 8 - Natural Language Processor for eBooks
 ## Natural Language Processing of eBooks
+https://github.com/incorrect-horse/20-python-apps/tree/main/08_book_analysis
   - regex
   - nltk - natural language tool kit
   - get number of chapters
@@ -110,6 +117,7 @@ https://github.com/incorrect-horse/20-python-apps/tree/main/01_todo
 
 # App 9 - Webcam Monitoring Email Alert App
 ## Webcam monitoring email alert app
+https://github.com/incorrect-horse/20-python-apps/tree/main/09_webcam_email
   - digital images
   - capture webcam video
   - detect motion
@@ -123,6 +131,7 @@ https://github.com/incorrect-horse/20-python-apps/tree/main/01_todo
 
 # App 10 - Music Event Web Scraper
 ## Web scraping of websites
+https://github.com/incorrect-horse/20-python-apps/tree/main/10_web_scraping
   - scraping a webpage
   - extract data from scraped webpage
   - store extracted data in text file
@@ -135,6 +144,7 @@ https://github.com/incorrect-horse/20-python-apps/tree/main/01_todo
 
 # App 11 - Hotel Booking App
 ## Hotel booking app using Python Object-Oriented Programming (OOP)
+https://github.com/incorrect-horse/20-python-apps/tree/main/11_hotel_Booking
   - intro to oop
   - classes, init, self
   - class vs instance
@@ -149,7 +159,7 @@ https://github.com/incorrect-horse/20-python-apps/tree/main/01_todo
   - abstract classes and methods
 
 # App 12 - Code Inspection with Mario Game App
-  # Understanding programs coded by others: Inspecting the Mario game codebase
+## Understanding programs coded by others: Inspecting the Mario game codebase
   - github, fork, pull-request
   - setup project locally
   - inspecting overall structure
@@ -157,6 +167,7 @@ https://github.com/incorrect-horse/20-python-apps/tree/main/01_todo
 
 # App 13 - SQLite Student Management System with PyQt
 ## Student Management System Desktop GUI app with SQLite and PyQt
+https://github.com/incorrect-horse/20-python-apps/tree/main/13_student_mgmt_sys
   - project requirements
   - sketch prototype
   - intro to pyqt6
@@ -172,6 +183,7 @@ https://github.com/incorrect-horse/20-python-apps/tree/main/01_todo
 
 # App 14 - MySQL Student Management System with PyQt
 ## Student Management System Desktop GUI app with MySQL and PyQt
+https://github.com/incorrect-horse/20-python-apps/tree/main/14_mysql_student_mgmt_sys
   - mysql vs sqlite
   - installing sqlite
   - mysql command line
@@ -179,6 +191,7 @@ https://github.com/incorrect-horse/20-python-apps/tree/main/01_todo
 
 # App 15 - Intelligent Chatbot with ChatGPT and PyQt
 ## Intelligent chatbot with ChatGPT and PyQt
+https://github.com/incorrect-horse/20-python-apps/tree/main/15_chatbot_gui
   - chatbot vs chatgpt
   - create chatbot gui
   - create gpt Chatbot
@@ -186,6 +199,7 @@ https://github.com/incorrect-horse/20-python-apps/tree/main/01_todo
 
 # App 16 - Job Application Webapp with Flask
 ## Job application web app with Flask
+https://github.com/incorrect-horse/20-python-apps/tree/main/16_job_app_flask
   - create app structure
   - connecting python backend to html
   - building the form
@@ -198,6 +212,7 @@ https://github.com/incorrect-horse/20-python-apps/tree/main/01_todo
 
 # App 17 - Job Application Webapp with Django
 ## Job application web app with Django
+https://github.com/incorrect-horse/20-python-apps/tree/main/17_job_app_django
   - setting up django App
   - setup database model
   - create views and templates
