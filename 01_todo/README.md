@@ -1,7 +1,5 @@
 ﻿# to-do-list
-
-##To-do app (CLI, desktop GUI, and web app versions) covering all Python basics
-
+## To-do app (CLI, desktop GUI, and web app versions) covering all Python basics
 - variables, lists, print
 - methods, while loops
 - match-case, for loops
