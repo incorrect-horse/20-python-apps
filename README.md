@@ -25,6 +25,7 @@
 
 # App 1 - To-Do List
 ## To-do app (CLI, desktop GUI, and web app versions) covering all Python basics
+https://github.com/incorrect-horse/20-python-apps/tree/main/01_todo
   - variables, lists, print
   - methods, while loops
   - match-case, for loops
