@@ -23,8 +23,8 @@ Learn Python in 60 Days by building 20 Apps (52 hrs)
 
 
 
-App 1 - To-Do List
-  # To-do app (CLI, desktop GUI, and web app versions) covering all Python basics
+# App 1 - To-Do List
+## To-do app (CLI, desktop GUI, and web app versions) covering all Python basics
   - variables, lists, print
   - methods, while loops
   - match-case, for loops
