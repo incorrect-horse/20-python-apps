@@ -141,6 +141,9 @@ https://github.com/incorrect-horse/20-python-apps/tree/main/10_web_scraping
   - sql database intro
   - select, add, delete sql data
   - store app data in sql database
+## Object Oriented Programming
+  - intro to oop
+  - refactoring into oop
 
 # App 11 - Hotel Booking App
 ## Hotel booking app using Python Object-Oriented Programming (OOP)
