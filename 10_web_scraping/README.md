@@ -9,3 +9,6 @@
   - sql database intro
   - select, add, delete sql data
   - store app data in sql database
+# object_oriented_programming
+  - intro to oop
+  - refactoring into oop
