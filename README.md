@@ -160,6 +160,7 @@ https://github.com/incorrect-horse/20-python-apps/tree/main/11_hotel_Booking
 
 # App 12 - Code Inspection with Mario Game App
 ## Understanding programs coded by others: Inspecting the Mario game codebase
+https://github.com/incorrect-horse/super-mario-python
   - github, fork, pull-request
   - setup project locally
   - inspecting overall structure
@@ -226,6 +227,7 @@ https://github.com/incorrect-horse/20-python-apps/tree/main/17_job_app_django
 
 # App 18 - Restaurant Kitchen Webapp with Django
 ## Restaurant kitchen web app
+https://github.com/incorrect-horse/20-python-apps/tree/main/18_restaurant_app_django
   - generate app qr code
   - setup django project and app
   - create database model
@@ -238,6 +240,7 @@ https://github.com/incorrect-horse/20-python-apps/tree/main/17_job_app_django
 
 # App 19 - Movie Recommendation System
 ## Movie recommendation system
+https://github.com/incorrect-horse/20-python-apps/tree/main/19_movie_recommendation_system
   - three types of recommendation systems
   - movies dataset
   - project setup on deepnote
@@ -251,6 +254,7 @@ https://github.com/incorrect-horse/20-python-apps/tree/main/17_job_app_django
 
 # App 20 - Build and Push a Python Package to PyPi
 ## Build and publish a third-party Python package
+https://github.com/incorrect-horse/20-python-apps/tree/main/20_python_package
   - description of package
   - preparing package code
   - testing package
